@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/first_tl_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="-first vocab"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/second_tl_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="-second vocab"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/third_tl_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="-third vocab"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/fourth_tl_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="-fourth vocab"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/fifth_tl_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="-fifth vocab"
+        android:textSize="20sp"/>
+
+</LinearLayout>
